@@ -21,7 +21,7 @@ Hi 👋 My name is Manuel Cheța
 Frontend developer, Web Accessibility Specialist, podcaster.
 ------------------------------------------------------------
 
-Been on the web since 2010 as a blogger, but starter working in all earnest on front-end jobs in 2011. Since then I learned as much as I could about HTML,CSS, JS, web accessibility and web performance working on dozens of bigger projects and hundreds of smaller ones in various companies.
+Been on the web since 2010 as a blogger, but started working in all earnest on front-end jobs in 2011. Since then I learned as much as I could about HTML, CSS, JS, web accessibility and web performance working on dozens of bigger projects and hundreds of smaller ones in various companies.
 
 * 🌍  I'm based in London, UK
 * 🧠  I'm learning about web components
